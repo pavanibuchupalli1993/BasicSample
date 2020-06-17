@@ -1,4 +1,4 @@
-# Basic sample for Espresso
+
 
 *If you are new to Espresso, try this sample first.*
 
@@ -26,5 +26,4 @@ This project uses the Gradle build system. You don't need an IDE to build and ex
     * Set `Class` to `ChangeTextBehaviorLocalTest`
     * Run the configuration    
     * The test will run on local host
-
-If you are using Android Studio, the *Run* window will show the test results.
+test
