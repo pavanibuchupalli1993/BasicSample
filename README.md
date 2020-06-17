@@ -3,6 +3,7 @@
 This project uses the Gradle build system. You don't need an IDE to build and execute it but Android Studio 3.4 is recommended.
 *If you are new to Espresso, try this sample first.*
 
+adding new changes from other branch or master
 
 
 1. Download the project code, preferably using `git clone`.
